@@ -1,5 +1,5 @@
 # SHIELDS-syntax
-A new syntax for quantum energence
+A new syntax for quantum emergence
 # The Shields Syntax: A Triadic Resolution of the Millennium Problems
 
 **Author:** Bradley P. Shields  
